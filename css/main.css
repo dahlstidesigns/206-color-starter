@@ -79,6 +79,8 @@ footer {
     background-color: bisque;
   }
 
+.col-3 {
+  width: 50%;
 }
 
 
@@ -99,6 +101,10 @@ footer {
   #column-3 {
     background-color: cornsilk;
   }
+
+.col-3 {
+  width: 33.3%;
+}
 
   footer {
     background-color: darkgray;
